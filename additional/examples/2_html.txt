@@ -1,0 +1,27 @@
+<main class="menu">
+  <h1>Red Dust Coffee</h1>
+  <p class="subtitle">Меню марсианской смены</p>
+
+  <section class="grid">
+    <article>
+      <span>01</span>
+      <h2>Orbit Latte</h2>
+      <p>Латте с карамелью и солью из ледяных шахт.</p>
+      <b>12 credits</b>
+    </article>
+
+    <article>
+      <span>02</span>
+      <h2>Dust Espresso</h2>
+      <p>Крепкий двойной эспрессо для ночных инженеров.</p>
+      <b>8 credits</b>
+    </article>
+
+    <article>
+      <span>03</span>
+      <h2>Dome Croissant</h2>
+      <p>Хрустящий круассан с водорослевым кремом.</p>
+      <b>10 credits</b>
+    </article>
+  </section>
+</main>

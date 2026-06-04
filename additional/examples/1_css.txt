@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #180b12;
+  color: white;
+}
+
+.hero {
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  padding: 40px;
+  background:
+    radial-gradient(circle at 70% 20%, #ff6b35 0 12%, transparent 28%),
+    linear-gradient(135deg, #27111f, #7b241c 55%, #19070a);
+}
+
+.hero div {
+  max-width: 620px;
+}
+
+.tag {
+  color: #ffcc70;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+}
+
+h1 {
+  font-size: 72px;
+  margin: 10px 0;
+}
+
+p {
+  font-size: 20px;
+  line-height: 1.5;
+}
+
+button {
+  margin-top: 20px;
+  padding: 14px 22px;
+  border: 0;
+  background: #2ff3e0;
+  color: #171717;
+  font-weight: 700;
+  border-radius: 6px;
+}

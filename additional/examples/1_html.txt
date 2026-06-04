@@ -1,0 +1,8 @@
+<section class="hero">
+  <div>
+    <p class="tag">Mars Colony 17</p>
+    <h1>Red Dust Coffee</h1>
+    <p>Кофейня под куполом с видом на марсианские дюны. Эспрессо, синтетические круассаны и закаты длиной в вечность.</p>
+    <button>Забронировать стол</button>
+  </div>
+</section>
